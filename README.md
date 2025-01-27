@@ -1,2 +1,2 @@
 # OWS-TestNarrative
-Simplified narrative world for automated and manual testing of Open World Stories functionality.
+Test narrative and interaction framework for the Open World Stories project. Defines a simplified world with time-based character interactions in the town of Oakhaven for automated and manual testing.
